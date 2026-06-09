@@ -3,10 +3,10 @@
 	url = https://github.com/JairoSantos05/graphic-novel-price-API.git
 [submodule "database"]
 	path = database
-	url = https://github.com/grayespinoza/retail-price-database.git
+	url = https://github.com/grayespinoza/graphic-novel-price-database.git
 [submodule "scraper"]
 	path = scraper
-	url = https://github.com/grayespinoza/retail-price-scraper.git
+	url = https://github.com/grayespinoza/graphic-novel-price-scraper.git
 [submodule "web"]
 	path = web
 	url = https://github.com/Josh-A1203/graphic-novel-price-web.git
